@@ -22,7 +22,8 @@
 2. 使用方法：
 	（1）确保网路连接畅通；
 	（2）打开MyFileTran.jar；
-![image](https://user-images.githubusercontent.com/81380030/194013694-2edc9828-a778-4aa7-960a-1c8756c75645.png)
+	
+	![image](https://user-images.githubusercontent.com/81380030/194013694-2edc9828-a778-4aa7-960a-1c8756c75645.png)
 
 	（3）点击“注册”，选择标准版，在开通其他服务中选择文档翻译；
 	![image](https://user-images.githubusercontent.com/81380030/194013730-bd53586d-c4ec-444e-93e6-4a0de85d1797.png)
