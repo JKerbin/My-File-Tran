@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'com.baidu.translate'
+version '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("com.squareup.okhttp3:okhttp:4.9.0")
+}
