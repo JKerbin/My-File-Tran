@@ -1,4 +1,4 @@
-# -api-
+# -MyFileTran-
 使用java编写的基于百度api的文档翻译器
 
 一、	程序的运行环境、安装步骤
@@ -35,7 +35,6 @@
 
 	（4）在APP ID和密钥处输入获得的申请信息，点击登录；
 	
-        （5）输入文件路径；
 	例如：C:\Users\Administrator\Desktop\test.docx，在源语言中输入待翻译的语言，在目标语言中输入要翻译成的语言。输入示例：zh（中文）、en（英文）、jp（日语）、kor（韩	 语）、auto（自动，目标语言不支持自动）；
 	
  	 ![image](https://user-images.githubusercontent.com/81380030/194013782-32601916-a396-40cd-b9b2-18908bd90dc3.png)
