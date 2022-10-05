@@ -21,6 +21,7 @@
 三、	程序功能说明以及使用方法
 1. 程序功能：基于百度翻译提供的API接口，支持用户将后缀为: doc、docx、xls、xlsx、ppt、pptx、xml、html、htm、txt、pdf的文件在线翻译为中文、英文、韩语、日语，文件大小限制为50M。
 2. 使用方法：
+
 	（1）确保网路连接畅通；
 	
 	（2）打开MyFileTran.jar；
@@ -34,7 +35,8 @@
 
 	（4）在APP ID和密钥处输入获得的申请信息，点击登录；
 	
-        （5）在文档路径中输入文件所作位置，例如：C:\Users\Administrator\Desktop\test.docx，在源语言中输入待翻译的语言，在目标语言中输入要翻译成的语言。输入示例：zh（中文）、en（英文）、jp（日语）、kor（韩语）、auto（自动，目标语言不支持自动）；
+        （5）在文档路径中输入文件所作位置，
+	例如：C:\Users\Administrator\Desktop\test.docx，在源语言中输入待翻译的语言，在目标语言中输入要翻译成的语言。输入示例：zh（中文）、en（英文）、jp（日语）、kor（韩	 语）、auto（自动，目标语言不支持自动）；
 	
  	 ![image](https://user-images.githubusercontent.com/81380030/194013782-32601916-a396-40cd-b9b2-18908bd90dc3.png)
 
