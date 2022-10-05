@@ -24,17 +24,22 @@
 	（1）确保网路连接畅通；
 	
 	（2）打开MyFileTran.jar；
+	
 	![image](https://user-images.githubusercontent.com/81380030/194013694-2edc9828-a778-4aa7-960a-1c8756c75645.png)
 
 	（3）点击“注册”，选择标准版，在开通其他服务中选择文档翻译；
+	
 	![image](https://user-images.githubusercontent.com/81380030/194013730-bd53586d-c4ec-444e-93e6-4a0de85d1797.png)
 	![image](https://user-images.githubusercontent.com/81380030/194013750-5a63bcc4-61e1-42b7-862e-f1a7e5581a06.png)
 
 	（4）在APP ID和密钥处输入获得的申请信息，点击登录；
+	
         （5）在文档路径中输入文件所作位置，例如：C:\Users\Administrator\Desktop\test.docx，在源语言中输入待翻译的语言，在目标语言中输入要翻译成的语言。输入示例：zh（中文）、en（英文）、jp（日语）、kor（韩语）、auto（自动，目标语言不支持自动）；
+	
  	 ![image](https://user-images.githubusercontent.com/81380030/194013782-32601916-a396-40cd-b9b2-18908bd90dc3.png)
 
-        （6）提示翻译成功，前往http://api.fanyi.baidu.com/api/trans/product/desktop?req=doc查看翻译结果；
+        （6）提示翻译成功，前往http://api.fanyi.baidu.com/api/trans/product/desktop?req=doc 查看翻译结果；
+	
 	  ![image](https://user-images.githubusercontent.com/81380030/194013850-518a4400-62d6-4a1d-a7df-c3cb84bedcfe.png)
 
 	（7）如果提示翻译失败，则按照提示检查并修改配置；
