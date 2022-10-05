@@ -5,6 +5,7 @@
 1. 运行环境：JDK17；
 2. 程序的组成部分：MyFileTran.jar不需要第三方组件库；
 3. 安装步骤：
+
 	（1）进入Java官方网站，点击免费java下载，之后点击同意并开始免费下载；
 	![image](https://user-images.githubusercontent.com/81380030/194013631-4e8cec55-e9af-44ef-9c1c-97e2cf4dcc76.png)
 
